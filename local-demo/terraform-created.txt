@@ -1,0 +1,5 @@
+Terraform automation is working!
+
+Environment: Okta IAM Automation Lab
+Created using: Terraform
+Purpose: Demonstrate Infrastructure as Code
